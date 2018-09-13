@@ -1,3 +1,4 @@
+#implementando teste
 import jogovelha
 import sys
 erroInicializar = False
