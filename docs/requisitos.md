@@ -7,3 +7,5 @@ um jogo da velha.
 
 * Cada casa do jogo da velha poderá estar vazia, ocupada
 pelo 1o jogador ou ocupada pelo 2o jogador.
+
+O jogo pode ser jogado sobre um tabuleiro ou mesmo sendo riscado sobre um pedaço de papel ou mesa.
