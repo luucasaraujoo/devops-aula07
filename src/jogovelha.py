@@ -1,3 +1,4 @@
+v1.1
 #PROGRAMAÇÃO
 TAB= []
 def inicializar() :
