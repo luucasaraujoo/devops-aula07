@@ -1,3 +1,4 @@
+#PROGRAMAÇÃO
 TAB= []
 def inicializar() :
 TAB.append(['.','.','.'])
